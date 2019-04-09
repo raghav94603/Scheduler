@@ -24,7 +24,7 @@ public class osscheduler {
       int t1=6,t2=10;      //time period mentioned in the question alloted
       int max=1,beta;
       
-      System.out.println("*-*-*-*-*-WELCOME TO THE SCHEDULER-*-*-*-*-*");
+      
         
         System.out.println("Enter the number of processes :-");
         processes=s.nextInt();
